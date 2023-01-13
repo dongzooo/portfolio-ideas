@@ -181,10 +181,11 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Ifedili Onyegbu         | ![Ifedili-Onyegbu-Software-Engineer](https://user-images.githubusercontent.com/46662771/211422589-ec814f14-9db7-4162-8f5f-5eaa8f037e8d.png)  | [ifedili.com](https://www.ifedili.com)                                              | [GitHub](https://github.com/saucecodee/ifedili.com)                      | Angular, TypeScript, SASS                                                                         |
 | Daniel Cranney          | ![daniel-cranney](https://user-images.githubusercontent.com/62628408/211936079-1cbf1c5e-4025-4c38-a69f-d2094f5af907.png)                     | [danielcranney.com/](https://www.danielcranney.com/)                                | [GitHub](https://github.com/danielcranney/portfolio)                     | NextJS, TailwindCSS, Vercel                                                                       |
 | Abdellatif Laghjaj      | ![abdellatif-laghjaj](https://user-images.githubusercontent.com/62628408/211947181-e796b197-856e-482f-be89-35b74d87d2e2.png)                 | [abdellatif-laghjaj.ml/](https://www.abdellatif-laghjaj.ml/)                        | None                                                                     | VueJS, Lottilefiles, Verel, CSS                                                                   |
-
+| Dongjoo Kwak          | ![image](https://user-images.githubusercontent.com/40832965/212299299-31d8a336-c9f0-41af-90ce-775aef7df142.png)                    | https://dongzooo.github.io/                             | [GitHub](https://github.com/dongzooo/dongzooo.github.io)                     | 	HTML, CSS, JavaScript
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
 ## Suggestions
+
 
 Do you have any portfolio you want to see added but you can't add it yourself? Just mention it in this [issue](https://github.com/Evavic44/portfolio-ideas/issues/104) and it will be picked up by the community. You can also raise a PR to add any of the portfolios suggested here as well.
 
